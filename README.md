@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, visualization, and tools like Power BI, Python, and SQL. I’m also passionate about motorcycling, motorsports, triathlons, cycling, and PC building.
 - 🌱 I’m currently learning advanced techniques in data science and analytics, focusing on Power BI and SQL.
 - 💞️ I’m looking to collaborate on projects related to data-driven decision-making, predictive modeling, and business intelligence.
-- 📫 How to reach me: franktm199@gmail.com or LinkedIn: Francisco José Bauzá Fernández
+- 📫 How to reach me: franktm199@gmail.com or LinkedIn: www.linkedin.com/in/francisco-josé-bauzá-fernández-7828b7142
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building custom PCs and following motorsport competitions in my free time
 
